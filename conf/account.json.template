@@ -1,0 +1,9 @@
+{
+  "server": {
+    "type": "IMAP",
+    "security": "SLL/TLS",
+    "domain": "ssl0.ovh.net",
+    "port": 993,
+    "user": "xxx@skapane.com"
+  }
+}
